@@ -8,7 +8,7 @@
 - Retail operations managers, category leads, inventory planners, and business analysts.
 ### 📂 Dataset Overview:
 ### 🧰 Tools & Technologies:
-- 🐍 Python (Pandas, Seaborn)
+- 🐍 Python (Pandas, Seaborn), Jupyter Notebook
 - 🗄️ SQL (SQlite)
 - 📊 Tableau
 - 📗 Excel
