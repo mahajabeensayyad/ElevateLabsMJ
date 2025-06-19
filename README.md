@@ -83,12 +83,6 @@ The average profit margin is healthy, with:
 
 ### 📦 **Final Recommendations:**
 
-
-### 🧾 **Deliverables:**
-- Tableau Dashboard
-- SQL queries (.sql file) - I have used SQlite
-- PDF Report with key insights
-
 ### 📊 **Visualizations Built in Tableau:**
 
 - KPI Tiles for quick metrics
@@ -98,4 +92,9 @@ The average profit margin is healthy, with:
 - Treemap: Slow-Moving Products by Category
 - Filters: City, Season, Year, Product Category
 
+### 🧾 **Deliverables:**
+- Tableau Dashboard
+- SQL queries (.sql file) - I have used SQlite
+- PDF Report with key insights
+  
 ### 📚 **Report Preview:**
