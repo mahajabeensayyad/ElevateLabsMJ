@@ -1,29 +1,14 @@
 # **Data Analyst Internship - Elevate Labs**
+
 ## **Project - 🛒 Retail Business Performance & Profitability Analysis** - Using Python + SQL + Tableau + Excel
+
 ### 🧭 **Objective:**
 - Analyze retail transactions to identify profit-draining product categories and sub-categories.
 - Optimize inventory turnover through data-driven insights.
 - Detect and interpret seasonal product sales trends.
+
 ### 🤝 **Target Audience:**
 - Retail operations managers, category leads, inventory planners, and business analysts.
-### 📂 **Dataset Overview:**
-- Dataset file used - Retail_Sales_Data - Copy.csv
-- My dataset has following columns:
-  
-![image](https://github.com/user-attachments/assets/9b4c4f95-ba14-4c51-b7f9-200130f9967d)
-- Following are calculated columns using Python:
-
-![image](https://github.com/user-attachments/assets/f2cd5ed7-efae-4579-843d-bdcea846fbc2)
-
-#### **Calculated Fields & Logic**:
-
-- Total_Sales = Unit_Price × Total_Items
-- Total_Cost = Cost_Per_Item × Total_Items
-- Profit = Total_Sales − Total_Cost
-- Profit_Margin_Sales =	(Profit ÷ Total_Sales) × 100
-- is_slow_moving	Products in bottom 25% by Total_Items
-- is_overstocked	Products in top 25% by quantity & low profit margin
-- These were created using Python (Pandas) and thresholds via .quantile().
 
 ### **🧰 Tools & Technologies:**
 
@@ -33,8 +18,28 @@
 - 📊 Tableau - Interactive dashboard for business insights
 - 📗 Excel
 - 📄.CSV file - Dataset for Retail Business data
+
+### 📂 **Dataset Overview:**
+- Dataset file used - Retail_Sales_Data - Copy.csv
+- The dataset comprises the following key attributes
+
+  ![image](https://github.com/user-attachments/assets/9b4c4f95-ba14-4c51-b7f9-200130f9967d)
+
+**Calculated Fields & Logic**:
+
+- Total_Sales = Unit_Price × Total_Items
+- Total_Cost = Cost_Per_Item × Total_Items
+- Profit_Margin_Sales =	(Profit ÷ Total_Sales) × 100
+- Profit_Margin_Cost =	(Profit ÷ Total_Cost) × 100
+- is_slow_moving	Products in bottom 25% by Total_Items
+- is_overstocked	Products in top 25% by quantity & low profit margin
+- These were created using Python (Pandas) and thresholds via .quantile().
+
+![image](https://github.com/user-attachments/assets/f2cd5ed7-efae-4579-843d-bdcea846fbc2)
+
   
 ### 🧑‍💻 **Analysis Performed:**
+
 #### **Python Part:**
 - Imported essential Python libraries (pandas, numpy, matplotlib, seaborn, sqlite3)
 - Loaded a retail CSV file into a DataFrame.
@@ -45,13 +50,33 @@
 
 #### **SQLite Part:**
 
+- Loaded data into SQLite in-memory DB for SQL queries.
+  
+**Key SQL-Based Analytical Queries Executed**
+
+- **Profitability Analysis:**
+  - Calculated Profit Margins by Category and Sub_Category to identify the most financially efficient product segments.
+- **Seasonal Sales Distribution:**
+  - Assessed Total Sales by Season and Category to uncover seasonal trends and high-performing periods.
+- **Customer Segment Performance:**
+  - Ranked Customer Categories by Sales Volume to determine the most valuable consumer demographics.
+- **Payment Method Insights:**
+  - Analyzed frequency and share of Payment Methods to reveal the most popular transaction modes across regions.
+- **Inventory Performance Flags:**
+  - Implemented logic to flag slow-moving products (based on low item turnover) and overstocked items (high inventory with low profitability).
 
 
 
 
 
+- Profit Margins by Category and Sub_Category
+- Seasonal sales distribution
+- To Calculate Top Customer Category Sales
+- To Calculate Most popula payment method
+- Identification of slow-moving and overstocked items
 
 ### 🔎 **Observation:**
+
 The average profit margin is healthy, with:
 - Total Sales: ~$47,983
 - Total Profit: ~$21,664
@@ -62,6 +87,12 @@ The average profit margin is healthy, with:
 - Personal Care dominates Spring/Fall and Pantry & Snacks peaks in Winter/Summer
 
 ### 🧠 **Key Stratergic Insights:**
+
+- Optimize inventory by reducing overstocked items.
+- Focus marketing on high-margin categories.
+- Deep-dive into underperforming store types or promotions
+- Introduce dynamic forecasting and demand planning
+
 ### 📦 **Final Recommendations:**
 ### 🧾 **Deliverables:**
 - Tableau Dashboard
