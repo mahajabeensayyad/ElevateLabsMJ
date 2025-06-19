@@ -52,8 +52,21 @@
 
 
 ### 🔎 Observation:
+The average profit margin is healthy, with:
+- Total Sales: ~$47,983
+- Total Profit: ~$21,664
+- Total Cost: ~$26,317
+- Average Profit Margin on Sales is ~44.6%, showing effective pricing or cost management.
+- Top-performing sales & Profit Margin sales categories include Personal Care, Pantry & Snacks, Cleaning Supplies, Grains & Bakery, and Household Electronics
+- Top-Performing sales Custormer Category are Young Adult, Senior Citizen, Middle-Aged
+- Personal Care dominates Spring/Fall and Pantry & Snacks peaks in Winter/Summer
+
 ### 🧠 Key Stratergic Insights:
 ### 📦 Final Recommendations:
 ### 🧾 Deliverables:
+- Tableau Dashboard
+- SQL queries (.sql file) - I have used SQlite
+- PDF Report with key insights
+
 ### 📊 Visualization:
 ### 📚 Report Preview:
