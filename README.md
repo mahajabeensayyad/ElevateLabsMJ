@@ -34,15 +34,26 @@
 - 📗 Excel
 - 📄.CSV file - Dataset for Retail Business data
   
-### 🧑‍💻 Analysis Performed:
-#### **SQL Part:**
+### 🧑‍💻 Analysis Performed
+#### **Python Part:**
+- Imported essential Python libraries (pandas, numpy, matplotlib, seaborn, sqlite3)
+- Loaded a retail CSV file into a DataFrame.
+- Used .head(), .tail() and .describe() to get a sense of the data distribution and quality.
+- Converted date strings to proper datetime format.
+- Checked data types and dimensions using .dtypes and .shape.
+- Calculated columns like Total_Cost, Total_Sales, Total_Profit, Profit_Margin_Sales, Profit_Margin_Cost and Sales Agreegations
+
+#### **SQLite Part:**
 
 
 
 
-### 📊 Visualization:
+
+
+
 ### 🔎 Observation:
 ### 🧠 Key Stratergic Insights:
 ### 📦 Final Recommendations:
 ### 🧾 Deliverables:
+### 📊 Visualization:
 ### 📚 Report Preview:
