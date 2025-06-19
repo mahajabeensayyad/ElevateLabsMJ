@@ -35,7 +35,7 @@
 - 📄.CSV file - Dataset for Retail Business data
   
 ### 🧑‍💻 Analysis Performed:
-#### **SQL Part**:
+#### **SQL Part:**
 
 
 
