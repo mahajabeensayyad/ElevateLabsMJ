@@ -1,12 +1,12 @@
 # **Data Analyst Internship - Elevate Labs**
 ## **Project - 🛒 Retail Business Performance & Profitability Analysis** - Using Python + SQL + Tableau + Excel
-### 🧭 Objective:
+### 🧭 **Objective:**
 - Analyze retail transactions to identify profit-draining product categories and sub-categories.
 - Optimize inventory turnover through data-driven insights.
 - Detect and interpret seasonal product sales trends.
-### 🤝 Target Audience: 
+### 🤝 **Target Audience:**
 - Retail operations managers, category leads, inventory planners, and business analysts.
-### 📂 Dataset Overview:
+### 📂 **Dataset Overview:**
 - Dataset file used - Retail_Sales_Data - Copy.csv
 - My dataset has following columns:
   
@@ -25,7 +25,7 @@
 - is_overstocked	Products in top 25% by quantity & low profit margin
 - These were created using Python (Pandas) and thresholds via .quantile().
 
-### 🧰 Tools & Technologies:
+### **🧰 Tools & Technologies:**
 
 - 🐍 Python (Pandas, Seaborn) – Data cleaning, Advanced analysis & visualization
 - 🧾 Jupyter Notebook – Python workflow and correlation analysis
@@ -34,7 +34,7 @@
 - 📗 Excel
 - 📄.CSV file - Dataset for Retail Business data
   
-### 🧑‍💻 Analysis Performed
+### 🧑‍💻 **Analysis Performed:**
 #### **Python Part:**
 - Imported essential Python libraries (pandas, numpy, matplotlib, seaborn, sqlite3)
 - Loaded a retail CSV file into a DataFrame.
@@ -51,7 +51,7 @@
 
 
 
-### 🔎 Observation:
+### 🔎 **Observation:**
 The average profit margin is healthy, with:
 - Total Sales: ~$47,983
 - Total Profit: ~$21,664
@@ -61,12 +61,12 @@ The average profit margin is healthy, with:
 - Top-Performing sales Custormer Category are Young Adult, Senior Citizen, Middle-Aged
 - Personal Care dominates Spring/Fall and Pantry & Snacks peaks in Winter/Summer
 
-### 🧠 Key Stratergic Insights:
-### 📦 Final Recommendations:
-### 🧾 Deliverables:
+### 🧠 **Key Stratergic Insights:**
+### 📦 **Final Recommendations:**
+### 🧾 **Deliverables:**
 - Tableau Dashboard
 - SQL queries (.sql file) - I have used SQlite
 - PDF Report with key insights
 
-### 📊 Visualization:
-### 📚 Report Preview:
+### 📊 **Visualization:**
+### 📚 **Report Preview:**
