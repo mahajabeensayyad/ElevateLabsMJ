@@ -63,16 +63,6 @@ This project aims to perform a comprehensive analysis of retail sales data from 
 - **Inventory Performance Flags:**
   - Implemented logic to flag slow-moving products (based on low item turnover) and overstocked items (high inventory with low profitability).
 
-
-
-
-
-- Profit Margins by Category and Sub_Category
-- Seasonal sales distribution
-- To Calculate Top Customer Category Sales
-- To Calculate Most popula payment method
-- Identification of slow-moving and overstocked items
-
 ### 🔎 **Observation:**
 
 The average profit margin is healthy, with:
@@ -92,6 +82,8 @@ The average profit margin is healthy, with:
 - Introduce dynamic forecasting and demand planning
 
 ### 📦 **Final Recommendations:**
+
+
 ### 🧾 **Deliverables:**
 - Tableau Dashboard
 - SQL queries (.sql file) - I have used SQlite
