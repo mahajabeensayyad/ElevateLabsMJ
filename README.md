@@ -98,5 +98,7 @@ The average profit margin is healthy, with:
 - PDF Report with key insights
   
 ### 📚 **Report Preview:**
-https://github.com/mahajabeensayyad/ElevateLabsMJ/blob/main/Report%20-%20Retail%20Business%20Performance%20%26%20Profitability%20Analysis%20-%202020-23.jpg
+
+![Screenshots/Superstores Co Sales Report.jpg](https://github.com/mahajabeensayyad/ElevateLabsMJ/blob/main/Report%20-%20Retail%20Business%20Performance%20%26%20Profitability%20Analysis%20-%202020-23.jpg)
+
 
