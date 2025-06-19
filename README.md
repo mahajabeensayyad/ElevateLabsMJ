@@ -3,9 +3,7 @@
 ## **Project - 🛒 Retail Business Performance & Profitability Analysis** - Using Python + SQL + Tableau + Excel
 
 ### 🧭 **Objective:**
-- Analyze retail transactions to identify profit-draining product categories and sub-categories.
-- Optimize inventory turnover through data-driven insights.
-- Detect and interpret seasonal product sales trends.
+This project aims to perform a comprehensive analysis of retail sales data from 2020 to 2023 to uncover business performance trends, customer behaviour, and product profitability. Using Python (Pandas, SQLite) for data cleaning and analysis, and Tableau for interactive visualizations, the project highlights key insights such as seasonal demand patterns, top-performing product categories, and inventory optimization strategies.
 
 ### 🤝 **Target Audience:**
 - Retail operations managers, category leads, inventory planners, and business analysts.
