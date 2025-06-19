@@ -68,5 +68,13 @@ The average profit margin is healthy, with:
 - SQL queries (.sql file) - I have used SQlite
 - PDF Report with key insights
 
-### 📊 **Visualization:**
+### 📊 **Visualizations Built in Tableau:**
+
+- KPI Tiles for quick metrics
+- Pie Charts: Sales by Season, Store Type
+- Bar Charts: Sales by Customer Category, Category, and Profit Margin
+- Side-by-Side Bar: Year-over-Year Sales by City
+- Treemap: Slow-Moving Products by Category
+- Filters: City, Season, Year, Product Category
+
 ### 📚 **Report Preview:**
