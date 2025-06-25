@@ -15,7 +15,7 @@ This project aims to perform a comprehensive analysis of retail sales data from 
 - 🗄️ SQL (SQlite) - Data cleaning, aggregation, view creation
 - 📊 Tableau - Interactive dashboard for business insights
 - 📗 Excel
-- 📄.CSV file - Dataset for Retail Business data
+- 📄.CSV file - Dataset for Retail Business Sales data
 
 ### 📂 **Dataset Overview:**
 - Dataset file used - Retail_Sales_Data - Copy.csv
