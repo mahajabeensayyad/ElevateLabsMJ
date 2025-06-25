@@ -10,7 +10,7 @@ This project aims to perform a comprehensive analysis of retail sales data from 
 
 ### **🧰 Tools & Technologies used:**
 
-- 🐍 Python (Pandas, Seaborn) – Data cleaning, Advanced analysis & visualization
+- 🐍 Python (Pandas, Numpy, Seaborn) – Data cleaning, Advanced analysis & visualization
 - 🧾 Jupyter Notebook – Python workflow and correlation analysis
 - 🗄️ SQL (SQlite) - Data cleaning, aggregation, view creation
 - 📊 Tableau - Interactive dashboard for business insights
