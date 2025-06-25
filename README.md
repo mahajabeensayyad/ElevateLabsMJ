@@ -81,8 +81,6 @@ The average profit margin is healthy, with:
 - Deep-dive into underperforming store types or promotions
 - Introduce dynamic forecasting and demand planning
 
-### 📦 **Final Recommendations:**
-
 ### 📊 **Visualizations Built in Tableau:**
 
 - KPI Tiles for quick metrics
