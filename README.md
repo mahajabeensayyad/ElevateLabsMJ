@@ -8,7 +8,7 @@ This project aims to perform a comprehensive analysis of retail sales data from 
 ### 🤝 **Target Audience:**
 - Retail operations managers, category leads, inventory planners, and business analysts.
 
-### **🧰 Tools & Technologies:**
+### **🧰 Tools & Technologies used:**
 
 - 🐍 Python (Pandas, Seaborn) – Data cleaning, Advanced analysis & visualization
 - 🧾 Jupyter Notebook – Python workflow and correlation analysis
